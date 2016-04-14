@@ -1,0 +1,22 @@
+{
+  "name": "adhawk",
+  "version": "0.0.0",
+  "description": "Interface with AdHawk",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adHawk/adhawk.js.git"
+  },
+  "keywords": [
+    "AdHawk"
+  ],
+  "author": "Ian Ker-Seymer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adHawk/adhawk.js/issues"
+  },
+  "homepage": "https://github.com/adHawk/adhawk.js#readme"
+}
